@@ -1,0 +1,52 @@
+
+<style>
+:root{
+	background-color:rgba(253, 245, 230,1);
+	font-family:monospace;
+}
+
+.offy{border-radius:1rem;}
+.offx{border-radius:1rem;}
+</style>
+
+
+<blockquote style="position:relative;">
+
+<span onclick="verde()"  class="offy"  style="position:absolute ; right:0; margin:1rem;background-color:green;color:green;font-size:5rem;font-family:monospace;">&nbsp;</span>
+
+<span  onclick="rosso()" class="offx" style="position:absolute ; right:0;   margin:1rem;background-color:red;color:red;font-size:5rem;font-family:monospace;">&nbsp;</span>
+
+</blockquote>
+
+
+
+<blockquote class="x" style="font-size:5rem;">
+
+	elle 1900 offxy toggle
+
+</blockquote>
+
+
+<script>
+
+function rosso(){
+elemento=document.querySelector(".x");
+elemento.style.visibility="hidden";
+elemento=document.querySelector(".offx");
+elemento.style.visibility="hidden";
+elemento=document.querySelector(".offy");
+elemento.style.visibility="visible";
+
+}
+
+function verde(){
+elemento=document.querySelector(".x");
+elemento.style.visibility="visible";
+elemento=document.querySelector(".offy");
+elemento.style.visibility="hidden";
+elemento=document.querySelector(".offx");
+elemento.style.visibility="visible";
+
+}
+
+</script>
