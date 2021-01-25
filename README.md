@@ -5,3 +5,7 @@ MILESTONE (pietra miliare)
 
 The template has a table in main and around
 a collection of utilities that define a page.
+
+Try the "frankentest" folder files.
+
+
