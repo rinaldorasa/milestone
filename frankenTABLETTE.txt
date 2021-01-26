@@ -1,0 +1,14 @@
+
+<aside id="argomento-0001" class="px-1 border border-0 immagine"><span class="id">0001</span>
+<article class="articolo px-1 border border-0 immagine">
+<span class="spanimg"><img src="http://edoraandiamo.altervista.org/i/mestre-altervista-01/mes-altobello-e010827_000261.jpg" alt="" title="" style="" class="img-fluid rounded mx-auto d-block border border-0 immagine" /></span><span class="card">[...]</span>
+
+</aside>
+</td>
+<td>
+<aside class="px-1 border border-0 immagine"><span class="id">0001</span>
+<article class="articolo px-1 border border-0 immagine">
+<span class="spanimg"><img src="http://edoraandiamo.altervista.org/i/mestre-altervista-01/mes-via-bissagola-e010827_00006.jpg" alt="" title="" style="" class="img-fluid rounded mx-auto d-block border border-0 immagine" /></span><span class="card">[...]</span>
+</article>
+</aside>
+
